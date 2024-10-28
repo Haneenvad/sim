@@ -1,0 +1,17 @@
+<div className="bg-dark align-item-center justify-content-center p-3">
+            <h2 style={{marginLeft:"50px",marginTop:"20px"}} >Simple Interest Calculator</h2>
+            <h4 style={{marginLeft:"50px",marginTop:"5px"}}  >Calculate your simple interest Easily</h4>
+
+        <div className='d-flex align-items-center justify-content-center flex-column' style={{width:"600px",height:"200px",color:'white',backgroundColor:'orange',borderRadius:'20px',marginLeft:'50px',marginTop:'50px',}} >
+
+          <h1>₹ 1000</h1>
+          <h5>Total Simple Interest</h5>
+
+
+        </div>
+
+
+
+
+
+        <div className='shadow rounded bg-warning  d-flex justify-content-center align-item-center p-5 fs-5 fw-bold flex-column text-light mt-5' style={{height:"200px"}}> <h3> ₹ 1000</h3>
